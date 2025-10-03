@@ -1,0 +1,23 @@
+/* Definições globais para o body*/
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+/* Personalização do título */
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+/* estilo do parágrafo */
+p {
+    color: #333
+    line-height: 1.6;
+}
+
+
+
+
+
+
+
+
